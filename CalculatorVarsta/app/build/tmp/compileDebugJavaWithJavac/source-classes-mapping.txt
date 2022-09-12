@@ -1,0 +1,2 @@
+com/malkinfo/agecalculator/BuildConfig.java
+ com.malkinfo.agecalculator.BuildConfig
